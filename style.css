@@ -15,3 +15,7 @@
 	background-image: linear-gradient(45deg, #6303b1, #ff0099);
 	transform: skewY(-11deg);
 }
+
+body {
+	margin-right: 800px;
+}
