@@ -1,0 +1,17 @@
+#game div {
+	border: 1px solid black;
+	width: 15%;
+	height: 200px;
+	margin: 10px;
+	display: inline-block;
+}
+
+.winner {
+	color: greenyellow;
+	font-size: 150px;
+	position: fixed;
+	top: 10%;
+	left: 10%;
+	background-image: linear-gradient(45deg, #6303b1, #ff0099);
+	transform: skewY(-11deg);
+}
